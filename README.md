@@ -1,2 +1,2 @@
 # Quera-CV
-A resume using Quora template
+A resume using Quera template
